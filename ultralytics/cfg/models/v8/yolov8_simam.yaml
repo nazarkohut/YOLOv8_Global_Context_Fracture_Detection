@@ -47,4 +47,4 @@ head:
   - [-1, 3, C2f, [1024]]  # 21 (P5/32-large)
   - [ -1, 1, SIMAM, [ 1024 ]]
 
-  - [[15, 18, 21], 1, Detect, [nc]]  # Detect(P3, P4, P5)
+  - [[17, 21, 25], 1, Detect, [nc]]  # Detect(P3, P4, P5)
